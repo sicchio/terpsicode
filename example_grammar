@@ -1,4 +1,0 @@
-start = hello _ bye
-hello = "hello"
-bye = "bye"
-_ = " "
